@@ -18,7 +18,7 @@ if docu > 0:
 else:
     print("Salio del proceso")
 
-    
+
 
     
     
